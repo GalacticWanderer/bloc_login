@@ -1,8 +1,3 @@
 # bloc_login
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+An example of how bloc can be used to retrieve and validate basic info
